@@ -14,4 +14,7 @@ categories: listas
 1. [x] Criar um [jogo apenas com CSS](https://github.com/afonsopacifer/egg-emergency) ;)
 1. [ ] Dar um passo atrás e estudar melhor os fundamentos da ciência da computação.
 1. [ ] Dissecar o Ruby on Rails.
+1. [ ] Terminar de ler todos os livros técnicos ficaram pendêntes em 2015.
+1. [ ] Me aprofundar nos paranauês de NodeJS para web.
+1. [ ] 
 1. ...
