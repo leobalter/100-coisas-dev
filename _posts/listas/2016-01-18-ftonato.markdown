@@ -10,4 +10,5 @@ categories: listas
 1. [ ] Criar uma *UI* para o [Harmonic](https://github.com/JSRocksHQ/harmonic).
 1. [ ] Criar um *meetup* com o formato do [#DevOpenHouse](https://github.com/devopenhouse/devopenhouse.github.io).
 1. [ ] Aprender/Melhorar no inglês! :(
+1. [ ] Ler 5 livros de programação.
 1. [ ] ...
