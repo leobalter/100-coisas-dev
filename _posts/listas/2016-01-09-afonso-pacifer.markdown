@@ -16,5 +16,7 @@ categories: listas
 1. [ ] Dissecar o Ruby on Rails.
 1. [ ] Terminar de ler todos os livros técnicos que ficaram pendêntes em 2015.
 1. [ ] Me aprofundar nos paranauês de NodeJS para web.
-1. [ ] 
+1. [ ] Parar de bobeira e fazer as pazes com o PHP.
+1. [ ] Fazer um tour pelos principais frameworks PHP e ver no que dá.
+1. [ ] Aprender Python.
 1. ...
