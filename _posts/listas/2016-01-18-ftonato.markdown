@@ -6,9 +6,10 @@ categories: listas
 ---
 
 1. [x] Traduzir uma postagem do blog [JS Rocks](http://jsrocks.org/).
-1. [ ] Criar um [novo layout](https://github.com/ftonato/fuck-feelings/issues/16) para o blog.
+1. [x] Criar um [novo layout](https://github.com/ftonato/fuck-feelings/issues/16) para o blog.
 1. [ ] Criar uma *UI* para o [Harmonic](https://github.com/JSRocksHQ/harmonic).
 1. [ ] Criar um *meetup* com o formato do [#DevOpenHouse](https://github.com/devopenhouse/devopenhouse.github.io).
 1. [ ] Aprender/Melhorar no inglês! :(
 1. [ ] Ler 5 livros de programação.
+1. [ ] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos particulares com *PHP*.
 1. [ ] ...
