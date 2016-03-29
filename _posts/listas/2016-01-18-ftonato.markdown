@@ -11,5 +11,5 @@ categories: listas
 1. [ ] Criar um *meetup* com o formato do [#DevOpenHouse](https://github.com/devopenhouse/devopenhouse.github.io).
 1. [ ] Aprender/Melhorar no inglês! :(
 1. [ ] Ler 5 livros de programação.
-1. [ ] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos particulares com *PHP*.
+1. [x] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos pessoais com *PHP*.
 1. [ ] ...
