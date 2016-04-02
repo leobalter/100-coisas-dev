@@ -9,7 +9,7 @@ categories: listas
 1. [x] Aprender a usar um novo editor e transmitir isso para alguém. [VIM](https://github.com/woliveiras/vim-noobs).
 1. [x] 21 Pull Requests em projetos Open Source [Em andamento...].
 1. [ ] Testar o Jekyll  [Em andamento...].
-1. [ ] Criar ou mudar o layout do meu Blog para algo mais clen.
+1. [ ] Criar ou mudar o layout do meu Blog para algo mais clean.
 1. [ ] Finalizar o curso JavaScript Ninja.
 1. [x] Fazer uma palestra/talk/hangout.
 1. [x] Ensinar Front End para alguém e ajudar essa pessoa a direcionar sua carreira (até onde eu conheço claro).
