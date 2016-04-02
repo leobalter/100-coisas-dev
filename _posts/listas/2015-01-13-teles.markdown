@@ -8,14 +8,14 @@ categories: listas
 
 1. [ ] Fazer pull request com tutorial de xslt para o [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs)
 2. [ ] Fazer pull request com tutorial de angular para o [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs)
-3. [ ] Fazer 2 pomodoros por dia durante 21 dias seguidos
+3. [x] Fazer 2 pomodoros por dia durante 21 dias seguidos
 4. [ ] Escrever um post para o [raio frontendizador](http://jotateles.com.br) sobre espaçamentos em css
 5. [ ] Escrever um post para o [raio frontendizador](http://jotateles.com.br) sobre como recarregar urls no angularjs sem recarregar controllers usando decorator
 6. [ ] Finalizar uma versão estável para o plugin de [links da semana](https://github.com/teles/links-da-semana/)
 7. [ ] Adicionar um tema de minha autoria ao site [jekyll themes](http://jekyllthemes.org/)
 8. [ ] Completar o [mini crud com angularjs](https://dicasdolampada.wordpress.com/2015/06/09/faca-voce-mesmo-mini-crud-com-angularjs/)
 9. [ ] Criar um plugin para habilitar o contenteditable do html com um botão
-10. [ ] Enviar link [desse post](http://jotateles.com.br/opini%C3%A3o/2015/11/09/desenvolvimento-front-end-alem-do-e-so-html-e-css.html) para lista de email do BrazilJS
+10. [x] Enviar link [desse post](http://jotateles.com.br/opini%C3%A3o/2015/11/09/desenvolvimento-front-end-alem-do-e-so-html-e-css.html) para lista de email do BrazilJS
 11. [ ] Escrever um post sobre o mixin [background stripes](http://codepen.io/teles/pen/GJrgNW)
 12. [ ] Pesquisar e encontrar um curso bom de scrum master na cidade de São Paulo
 13. [ ] Criar uma página inicial para o site [versos do mundo](http://versosdomundo.github.io/livro)
@@ -25,7 +25,7 @@ categories: listas
 17. [ ] Criar página cssparagentegrande.github.io
 18. [ ] Escrever introdução para [css para gente grande](https://github.com/cssparagentegrande)
 19. [ ] Listar 10 tópicos possíveis para o [css para gente grande](https://github.com/cssparagentegrande)
-20. [ ] Listar 20 dicas de css para o projeto 365css.ninja
+20. [x] Listar 20 dicas de css para o projeto 365css.ninja
 21. [ ] Listar mais 20 dicas de css para o projeto 365css.ninja
 22. [ ] Publicar uma landing page em [365css.ninja](http://365css.ninja)
 23. [ ] Extrair componente de documentação de angularjs do freedom sponsors e publicar como [ngdocs](https://github.com/teles/ngdocs) no github
