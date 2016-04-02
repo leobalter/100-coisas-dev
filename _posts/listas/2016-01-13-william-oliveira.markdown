@@ -14,7 +14,7 @@ categories: listas
 1. [x] Fazer uma palestra/talk/hangout.
 1. [x] Ensinar Front End para alguém e ajudar essa pessoa a direcionar sua carreira (até onde eu conheço claro).
 1. [ ] Melhorar no inglês! - Critério de pronto: conversar em inglês sem engasgar! ;D
-1. [ ] Estimular um grande evento sobre Front End no Grande ABC [Em andamento...].
+1. [x] Estimular um grande evento sobre Front End no Grande ABC.
 1. [ ] Usar o Vim no dia-a-dia durante um mês.
 1. [ ] Subir um aplicativo na Play Store.
 1. ...
