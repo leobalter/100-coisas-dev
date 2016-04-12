@@ -13,4 +13,5 @@ categories: listas
 1. [ ] Ler 5 livros de programação.
 1. [x] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos pessoais com *PHP*.
 1. [x] Ter um [_PR_ aceito](https://github.com/css/csso/pull/282) em um projeto com mais de 1000 stars.
+2. [ ] Estudar [Jeet Grid System](http://jeet.gs/).
 1. [ ] ...
