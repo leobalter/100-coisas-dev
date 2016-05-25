@@ -16,5 +16,5 @@ categories: listas
 9. [ ] Estudar [Jeet Grid System](http://jeet.gs/).
 10. [x] Estudar [Git](https://github.com/ftonato/github-course).
 11. [x] Estudar [Bower](https://github.com/ftonato/bower-course).
-12. [ ] Criar um [CLI](https://github.com/ftonato/registrobr) para consultar disponibilidade de domínios.
+12. [x] Criar um [CLI](https://github.com/ftonato/registrobr) para consultar disponibilidade de domínios.
 13. [ ] ...
