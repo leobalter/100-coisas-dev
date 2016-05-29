@@ -6,7 +6,7 @@ categories: listas
 ---
 
 1. [x] Transformar o [Kibe](https://github.com/woliveiras/kibe) em um Yeoman Generator.
-1. [x] Aprender a usar um novo editor e transmitir isso para alguém. [VIM](https://github.com/woliveiras/vim-noobs).
+1. [x] Aprender a usar um novo editor e transmitir isso para alguém. [VIM](https://github.com/woliveiras/vimparanoobs).
 1. [x] 21 Pull Requests em projetos Open Source [Em andamento...].
 1. [ ] Testar o Jekyll  [Em andamento...].
 1. [ ] Criar ou mudar o layout do meu Blog para algo mais clean.
