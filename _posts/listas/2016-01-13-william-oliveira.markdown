@@ -8,7 +8,7 @@ categories: listas
 1. [x] Transformar o [Kibe](https://github.com/woliveiras/kibe) em um Yeoman Generator.
 1. [x] Aprender a usar um novo editor e transmitir isso para alguém. [VIM](https://github.com/woliveiras/vimparanoobs).
 1. [x] 21 Pull Requests em projetos Open Source [Em andamento...].
-1. [ ] Testar o Jekyll  [Em andamento...].
+1. [x] Testar o Jekyll. [My Precious Links](woliveiras.com.br/my-precious-links/)
 1. [ ] Criar ou mudar o layout do meu Blog para algo mais clean.
 1. [ ] Finalizar o curso JavaScript Ninja.
 1. [x] Fazer uma palestra/talk/hangout.
