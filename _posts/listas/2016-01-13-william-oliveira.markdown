@@ -17,4 +17,9 @@ categories: listas
 1. [x] Estimular um grande evento sobre Front End no Grande ABC.
 1. [ ] Usar o Vim no dia-a-dia durante um mês.
 1. [ ] Subir um aplicativo na Play Store.
+1. [ ] Escrever 30 artigos até o Dezembro de 2016
+1. [ ] Escrever 10 artigos não técnicos até Dezembro de 2016 (fora os 30 acima)
+1. [ ] Dominar Padrões de Projetos
+1. [ ] Ler o livro Clean Code
+1. [ ] Criar um aplicativo com AngularJS 100% sozinho
 1. ...
