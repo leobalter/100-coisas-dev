@@ -35,7 +35,7 @@ categories: listas
 1. [x] [Reformular meu site pessoal](http://afonsopacifer.com/).
 1. [x] Criar uma [newsletter sobre CSS](http://us13.campaign-archive1.com/?u=1a0f9fcb157dd48548cf5b618&id=1845db2d7d&e=[UNIQID]).
 1. [x] Iniciar em um [trampo remoto na area de produto](https://github.com/nutriotos).
-1. [x] Aprender ****Polymer**** e criar [webcomponents descolados](https://customelements.io/afonsopacifer).
+1. [x] Aprender **Polymer** e criar [webcomponents descolados](https://customelements.io/afonsopacifer).
 1. [x] Criar a [Awesome **Firebase**](https://github.com/afonsopacifer/awesome-firebase).
 1. [ ] Organizar meu code style guide.
 1. [ ] Me aprofundar em **AngularJS**.
@@ -46,7 +46,7 @@ categories: listas
 1. [ ] Visitar o meetup de CSS em São Paulo.
 1. [ ] Conhecer a sede do Google Brasil.
 1. [ ] Palestrar no meetup de CSS edição especial no Google Brasil.:sparkling_heart:
-1. [ ] Criar uma webapp simples para me ajudar treinar o inglês.
+1. [ ] Criar uma webapp simples para me ajudar a treinar o inglês.
 1. [ ] Aprender **Shell Script** e automatizar tudo o que der.
 1. [ ] Ministrar (junto com Clovis Neto) um curso gratuito sobre animações com CSS.
 1. [ ] Montar uma rotina organizada de estudos, trabalho e projetos pessoais (equilibrando com qualidade de vida e **sáude**).:sparkling_heart:
