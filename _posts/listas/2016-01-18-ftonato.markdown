@@ -22,4 +22,5 @@ categories: listas
 15. [x] Concluir o curso de [Introdução ao NodeJS com Typescript no Visual Studio Code](https://mva.microsoft.com/pt-br/training-courses/introdu-o-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=BrG7Pho6B_6305192797) da Microsoft.
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
-18. [ ] ...
+18. [ ] Estudar [Vue.js](http://www.vedcasts.com.br/series/vuejs).
+19. [ ] ...
