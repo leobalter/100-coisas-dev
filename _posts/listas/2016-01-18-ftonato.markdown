@@ -23,4 +23,5 @@ categories: listas
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
 18. [ ] Estudar [Vue.js](http://www.vedcasts.com.br/series/vuejs).
-19. [ ] ...
+19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
+20. [ ] ...
