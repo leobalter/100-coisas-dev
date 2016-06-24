@@ -24,4 +24,5 @@ categories: listas
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
 18. [ ] Estudar [Vue.js](http://www.vedcasts.com.br/series/vuejs).
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
-20. [ ] ...
+20. [ ] Estudar [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
+21. [ ] ...
