@@ -8,7 +8,7 @@ categories: listas
 1. [x] Traduzir uma postagem do blog [JS Rocks](http://jsrocks.org/).
 2. [x] Criar um [novo layout](https://github.com/ftonato/fuck-feelings/issues/16) para o blog.
 3. [ ] Criar uma *UI* para o [Harmonic](https://github.com/JSRocksHQ/harmonic).
-4. [ ] Criar um *meetup* com o formato do [#DevOpenHouse](https://github.com/devopenhouse/devopenhouse.github.io).
+4. [x] Organizar um *meetup* com o formato do [#DevOpenHouse](https://github.com/ftonato/meetup).
 5. [ ] Aprender/Melhorar no inglês! :(
 6. [ ] Ler 5 livros de programação.
 7. [x] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos pessoais com *PHP*.
