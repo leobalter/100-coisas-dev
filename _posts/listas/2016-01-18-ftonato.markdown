@@ -26,4 +26,6 @@ categories: listas
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
 20. [ ] Estudar [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
 21. [x] Migrar do Ubuntu para o Mint.
-22. [ ] ...
+22. [ ] Ir a 2 eventos.
+23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
+24. [ ] ...
