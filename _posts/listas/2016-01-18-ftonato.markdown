@@ -25,4 +25,5 @@ categories: listas
 18. [ ] Estudar [Vue.js](http://www.vedcasts.com.br/series/vuejs).
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
 20. [ ] Estudar [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
-21. [ ] ...
+21. [x] Migrar do Ubuntu para o Mint.
+22. [ ] ...
