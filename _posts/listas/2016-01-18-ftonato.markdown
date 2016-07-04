@@ -29,4 +29,5 @@ categories: listas
 22. [ ] Ir a 2 eventos.
 23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
 24. [ ] Concluir o mini-curso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
-25. [ ] ...
+25. [ ] Assistir os vídeos do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg)
+26. [ ] ...
