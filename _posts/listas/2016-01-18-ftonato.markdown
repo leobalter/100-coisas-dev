@@ -17,12 +17,17 @@ categories: listas
 10. [x] Estudar [Git](https://github.com/ftonato/github-course).
 11. [x] Estudar [Bower](https://github.com/ftonato/bower-course).
 12. [x] Criar um [CLI](https://github.com/ftonato/registrobr) para consultar disponibilidade de domínios.
-13. [ ] Concluir o curso de [Python](https://www.codecademy.com/pt-BR/learn/python) da Codecademy.
+13. [x] Concluir o curso de [Python](https://www.codecademy.com/pt-BR/learn/python) da Codecademy.
 14. [ ] Concluir o curso de [Design Patterns PHP](https://www.alura.com.br/curso-online-design-pattern-php) da Alura.
 15. [x] Concluir o curso de [Introdução ao NodeJS com Typescript no Visual Studio Code](https://mva.microsoft.com/pt-br/training-courses/introdu-o-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=BrG7Pho6B_6305192797) da Microsoft.
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
-18. [ ] Estudar [Vue.js](http://www.vedcasts.com.br/series/vuejs).
+18. [ ] Concluir o mini-curso de [Vue.js](http://www.vedcasts.com.br/series/vuejs).
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
-20. [ ] Estudar [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
-21. [ ] ...
+20. [x] Concluir o mini-curso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
+21. [x] Migrar do Ubuntu para o Mint.
+22. [ ] Ir a 2 eventos.
+23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
+24. [ ] Concluir o mini-curso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
+25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg)
+26. [ ] ...
