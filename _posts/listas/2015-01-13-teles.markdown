@@ -24,7 +24,7 @@ categories: listas
 16. [ ] Publicar um projeto de financiamento coletivo para o projeto "Desafio 21 dias" no catarse
 17. [ ] Criar página cssparagentegrande.github.io
 18. [ ] Escrever introdução para [css para gente grande](https://github.com/cssparagentegrande)
-19. [ ] Listar 10 tópicos possíveis para o [css para gente grande](https://github.com/cssparagentegrande)
+19. [x] [Listar 10 tópicos possíveis para o css para gente grande](https://github.com/cssparagentegrande/cssparagentegrande.github.io/issues/1)
 20. [x] Listar 20 dicas de css para o projeto 365css.ninja
 21. [ ] Listar mais 20 dicas de css para o projeto 365css.ninja
 22. [ ] Publicar uma landing page em [365css.ninja](http://365css.ninja)
