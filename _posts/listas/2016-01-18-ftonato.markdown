@@ -29,7 +29,8 @@ categories: listas
 22. [ ] Ir a 2 eventos.
 23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
 24. [x] Concluir o mini-curso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
-25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg)
+25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
-28. [ ] ...
+28. [ ] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
+29. [ ] ...
