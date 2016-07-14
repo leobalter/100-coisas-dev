@@ -33,12 +33,12 @@ categories: listas
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
 28. [ ] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
-<<<<<<< HEAD
 29. [ ] Concluir o mini-curso *Python e Flask*.
 30. [ ] Concluir o mini-curso *Visão Geral de ERP*.
+<<<<<<< HEAD
 31. [ ] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
 33. [ ] ...
 =======
-29. [ ] ...
->>>>>>> Adicionar estudo de React na Prática
+31. [ ] ...
+>>>>>>> Adicionar dois novos cursos e correção da marcação
