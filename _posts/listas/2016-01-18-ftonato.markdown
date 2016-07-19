@@ -40,5 +40,5 @@ categories: listas
 33. [ ] Atualizar repositórios antigos do GitHub.
 34. [ ] Manter a frequência de estudos de 2 mêses de Inglês.
 35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
-36. [ ] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
+36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
 37. [ ] ...
