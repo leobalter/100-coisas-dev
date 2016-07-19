@@ -15,7 +15,7 @@ categories: listas
 1. [ ] Dar um passo atrás e estudar melhor os fundamentos de **ciência da computação**.
 1. [x] Dissecar o **Ruby on Rails**.
 1. [x] Aprender a trabalhar com **Heroku**.
-1. [ ] Terminar de ler *Javascript o Guia definitivo* (Pendência de 2015)
+1. [ ] Terminar de ler *Javascript o Guia definitivo - by David Flanagan* (Pendência de 2015)
 1. [ ] Me aprofundar nos paranauês de **NodeJS** para web.
 1. [ ] Parar de bobeira e fazer as pazes com o **PHP**.
 1. [ ] Fazer um tour pelos principais frameworks PHP e ver no que dá.
@@ -42,12 +42,12 @@ categories: listas
 1. [ ] Me aprofundar em Apps hybridos com **Ionic**.
 1. [ ] Migrar o pacificator.js para **AST**.
 1. [ ] Criar uma série de videos sobre o Polymer Project.
-1. [ ] Dar minha primeira palestra fora do Rio de Janeiro (Sampa.JS em São Paulo):sparkling_heart:
-1. [ ] Visitar o meetup de CSS em São Paulo.
-1. [ ] Conhecer a sede do Google Brasil.
-1. [ ] Palestrar no meetup de CSS edição especial no Google Brasil.:sparkling_heart:
+1. [x] Dar minha primeira palestra fora do Rio de Janeiro (Sampa.JS em São Paulo):sparkling_heart:
+1. [x] Visitar o meetup de CSS em São Paulo.
+1. [x] Conhecer a sede do Google Brasil.
+1. [x] Palestrar no meetup de CSS edição especial no Google Brasil.:sparkling_heart:
 1. [ ] Criar uma webapp simples para me ajudar a treinar o inglês.
-1. [ ] Aprender **Shell Script** e automatizar tudo o que der.
+1. [x] Aprender **Shell Script** e [automatizar tudo](https://github.com/afonsopacifer/friday) o que der.
 1. [ ] Ministrar (junto com Clovis Neto) um curso gratuito sobre animações com CSS.
 1. [ ] Montar uma rotina organizada de estudos, trabalho e projetos pessoais (equilibrando com qualidade de vida e **sáude**).:sparkling_heart:
 1. [ ] Passar a me exercitar antes de iniciar meu dia sentado na frente do computador.
@@ -56,4 +56,25 @@ categories: listas
 1. [ ] Aprender mais sobre o **paradigma funcional**.
 1. [ ] Aprender **Ember.js**
 1. [ ] Renovar todos os adesivos do macbook.
-1. [ ] Alcançar um nível razoável de fluência em **inglês**.
+1. [x] Reviver os lendários [desafios com CSS](http://afonsopacifer.com/challenges.html).:sparkling_heart:
+1. [x] Apresentar uma mini talk sobre comunidade Web no Marketing Meetup Rio 3ª Edição.
+1. [ ] Terminar de ler *MEAN - by Flávio Almeida* (Pendência de 2015)
+1. [ ] Terminar de ler *HTML5 - by Maujor* (Pendência de 2015)
+1. [ ] Terminar de ler *SEO Prático - by Adriano Almeida* (Pendência de 2015)
+1. [ ] Terminar de ler *Web Design Responsivo - by Tárcio Zemel* (Pendência de 2015)
+1. [ ] Terminar de ler *Construindo Apps Android com HTML, CSS e JS - by Jonathan Stark* (Pendência de 2015)
+1. [ ] Terminar de ler *Aplicações web real-time com Node.js - by Caio Ribeiro Pereira* (Pendência de 2015)
+1. [ ] Terminar de ler *CSS3 Layout Modules - by Rachel Andrew* (Pendência de 2015)
+1. [x] Ler *Ruby - by Lucas Souza*
+1. [ ] Ler *CSS Eficiente - by Tárcio Zemel*
+1. [ ] Ler *CSS Secrets - by Lea Verou*
+1. [ ] Ler *Guia Front-End - by Diego Eis*
+1. [ ] Ler *PHP e Laravel - by Rodrigo Turini*
+1. [ ] Ler *Guia do mestre programador - by Carlos Bueno*
+1. [ ] Ler *Thoughtworks Antologia Brasil - by Paulo Caroli*
+1. [ ] Ler *DevOps na prática - by Danilo Sato*
+1. [ ] Ler *Javascript Patterns - by Stoyan Stefanov*
+1. [ ] Ler *Clean Code - by Robert Cecil Martin*
+1. [ ] Ler *JavaScript de Alto Desempenho - by Nicholas C. Zakas*
+1. [ ] Ler *You Don't Know JS: ES6 & Beyond - by Kyle Simpson*
+1. [ ] Alcançar um nível razoável de fluência em **inglês**.:sparkling_heart:
