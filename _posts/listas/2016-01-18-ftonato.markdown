@@ -37,4 +37,8 @@ categories: listas
 30. [ ] Concluir o mini-curso *Visão Geral de ERP*.
 31. [ ] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
-33. [ ] ...
+33. [ ] Atualizar repositórios antigos do GitHub.
+34. [ ] Manter a frequência de estudos de 2 mêses de Inglês.
+35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
+36. [ ] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
+37. [ ] ...
