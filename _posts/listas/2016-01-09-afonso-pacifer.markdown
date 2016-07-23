@@ -46,6 +46,8 @@ categories: listas
 1. [x] Visitar o meetup de CSS em São Paulo.
 1. [x] Conhecer a sede do Google Brasil.
 1. [x] Palestrar no meetup de CSS edição especial no Google Brasil.:sparkling_heart:
+1. [x] Participar da 1ª edição do Code in the Dark Brasil.:sparkling_heart:
+1. [x] Ir pela primeira vez ao Front in Sampa.
 1. [ ] Criar uma webapp simples para me ajudar a treinar o inglês.
 1. [x] Aprender **Shell Script** e [automatizar tudo](https://github.com/afonsopacifer/friday) o que der.
 1. [ ] Ministrar (junto com Clovis Neto) um curso gratuito sobre animações com CSS.
@@ -58,23 +60,31 @@ categories: listas
 1. [ ] Renovar todos os adesivos do macbook.
 1. [x] Reviver os lendários [desafios com CSS](http://afonsopacifer.com/challenges.html).:sparkling_heart:
 1. [x] Apresentar uma mini talk sobre comunidade Web no Marketing Meetup Rio 3ª Edição.
-1. [ ] Terminar de ler *MEAN - by Flávio Almeida* (Pendência de 2015)
+1. [ ] Terminar de ler * **MEAN** - by Flávio Almeida* (Pendência de 2015)
 1. [ ] Terminar de ler *HTML5 - by Maujor* (Pendência de 2015)
-1. [ ] Terminar de ler *SEO Prático - by Adriano Almeida* (Pendência de 2015)
+1. [ ] Terminar de ler * **SEO** Prático - by Adriano Almeida* (Pendência de 2015)
 1. [ ] Terminar de ler *Web Design Responsivo - by Tárcio Zemel* (Pendência de 2015)
-1. [ ] Terminar de ler *Construindo Apps Android com HTML, CSS e JS - by Jonathan Stark* (Pendência de 2015)
+1. [ ] Terminar de ler *Construindo Apps **Android** com HTML, CSS e JS - by Jonathan Stark* (Pendência de 2015)
 1. [ ] Terminar de ler *Aplicações web real-time com Node.js - by Caio Ribeiro Pereira* (Pendência de 2015)
 1. [ ] Terminar de ler *CSS3 Layout Modules - by Rachel Andrew* (Pendência de 2015)
 1. [x] Ler *Ruby - by Lucas Souza*
-1. [ ] Ler *CSS Eficiente - by Tárcio Zemel*
+1. [x] Ler *CSS Eficiente - by Tárcio Zemel*
 1. [ ] Ler *CSS Secrets - by Lea Verou*
 1. [ ] Ler *Guia Front-End - by Diego Eis*
-1. [ ] Ler *PHP e Laravel - by Rodrigo Turini*
-1. [ ] Ler *Guia do mestre programador - by Carlos Bueno*
+1. [ ] Ler *PHP e **Laravel** - by Rodrigo Turini*
+1. [x] Ler *Guia do mestre programador - by Carlos Bueno*
 1. [ ] Ler *Thoughtworks Antologia Brasil - by Paulo Caroli*
-1. [ ] Ler *DevOps na prática - by Danilo Sato*
+1. [ ] Ler * **DevOps** na prática - by Danilo Sato*
 1. [ ] Ler *Javascript Patterns - by Stoyan Stefanov*
 1. [ ] Ler *Clean Code - by Robert Cecil Martin*
 1. [ ] Ler *JavaScript de Alto Desempenho - by Nicholas C. Zakas*
 1. [ ] Ler *You Don't Know JS: ES6 & Beyond - by Kyle Simpson*
+1. [ ] Ler *Construindo APIs REST com Node.js - by Caio Ribeiro Pereira*
+1. [ ] Aprender **Vue.js**.
+1. [ ] Criar uma **extensão para Chrome**.
+1. [x] Criar um [WebApp para me ajudar a meditar](http://afonsopacifer.github.io/vue-meditation/).
+1. [ ] Dissecar a API de **Service Workers**.
+1. [ ] Substituir Appcache por Service Workers para Offline First em meu workflow.
+1. [ ] Construir uma **API REST** com **Express**.
+1. [ ] Implementar **Redux** em um projeto que não use React.
 1. [ ] Alcançar um nível razoável de fluência em **inglês**.:sparkling_heart:
