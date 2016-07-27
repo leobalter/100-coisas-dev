@@ -38,7 +38,8 @@ categories: listas
 31. [ ] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
 33. [ ] Atualizar repositórios antigos do GitHub.
-34. [ ] Manter a frequência de estudos de 2 mêses de Inglês.
+34. [x] Manter a frequência de estudos de 2 mêses de Inglês.
 35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
 36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
-37. [ ] ...
+37. [ ] Concluir o mini-curso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
+38. [ ] ...
