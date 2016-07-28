@@ -42,4 +42,7 @@ categories: listas
 35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
 36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
 37. [ ] Concluir o mini-curso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
-38. [ ] ...
+38. [ ] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb)
+39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95)
+40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE)
+41. [ ] ...
