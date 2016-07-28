@@ -45,4 +45,5 @@ categories: listas
 38. [ ] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb)
 39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95)
 40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE)
-41. [ ] ...
+41. [ ] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
+42. [ ] ...
