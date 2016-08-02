@@ -46,4 +46,6 @@ categories: listas
 39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95)
 40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE)
 41. [ ] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
-42. [ ] ...
+42. [ ] Concluir o mini-curso [Programando um jogo simples em Javascript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+43. [ ] Concluir o mini-curso [Jogo de Aventura em Javascript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+44. [ ] ...
