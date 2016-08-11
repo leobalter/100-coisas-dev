@@ -48,4 +48,10 @@ categories: listas
 41. [ ] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
 42. [ ] Concluir o mini-curso [Programando um jogo simples em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
 43. [ ] Concluir o mini-curso [Jogo de Aventura em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
-44. [ ] ...
+44. [ ] Estudar o [Elllo - Level 2 - Beginner Basics](http://www.elllo.org/english/beginner/index.htm)
+45. [ ] Estudar o [Elllo - Level 3 - High-Beginner](http://www.elllo.org/english/beginner-3-high.htm)
+46. [ ] Estudar o [Elllo - Level 4 - Low Intermediate](http://www.elllo.org/english/intermediate-4-low.htm)
+47. [ ] Estudar o [Elllo - Level 5 - Intermediate](http://www.elllo.org/english/intermediate-5-mid.htm)
+48. [ ] Estudar o [Elllo - Level 6 - High Intermediate](http://www.elllo.org/english/intermediate-6-high.htm)
+49. [ ] Estudar o [Elllo - Level 7 - Advanced English](http://www.elllo.org/english/advanced.htm)
+50. [ ] ...
