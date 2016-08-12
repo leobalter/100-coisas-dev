@@ -33,8 +33,25 @@ categories: listas
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
 28. [ ] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
-29. [ ] Concluir o mini-curso *Python e Flask*.
-30. [ ] Concluir o mini-curso *Visão Geral de ERP*.
+29. [ ] Concluir o mini-curso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
+30. [ ] Concluir o mini-curso [Visão Geral de ERP](http://www.alfamidiaonline.com.br/Turmas.aspx).
 31. [ ] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
-33. [ ] ...
+33. [ ] Atualizar repositórios antigos do GitHub.
+34. [x] Manter a frequência de estudos de 2 mêses de Inglês.
+35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
+36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
+37. [ ] Concluir o mini-curso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
+38. [ ] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb)
+39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95)
+40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE)
+41. [ ] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
+42. [x] Concluir o mini-curso [Programando um jogo simples em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+43. [ ] Concluir o mini-curso [Jogo de Aventura em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+44. [ ] Estudar o [Elllo - Level 2 - Beginner Basics](http://www.elllo.org/english/beginner/index.htm)
+45. [ ] Estudar o [Elllo - Level 3 - High-Beginner](http://www.elllo.org/english/beginner-3-high.htm)
+46. [ ] Estudar o [Elllo - Level 4 - Low Intermediate](http://www.elllo.org/english/intermediate-4-low.htm)
+47. [ ] Estudar o [Elllo - Level 5 - Intermediate](http://www.elllo.org/english/intermediate-5-mid.htm)
+48. [ ] Estudar o [Elllo - Level 6 - High Intermediate](http://www.elllo.org/english/intermediate-6-high.htm)
+49. [ ] Estudar o [Elllo - Level 7 - Advanced English](http://www.elllo.org/english/advanced.htm)
+50. [ ] ...
