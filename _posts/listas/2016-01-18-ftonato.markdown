@@ -32,7 +32,7 @@ categories: listas
 25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
-28. [ ] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
+28. [x] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
 29. [ ] Concluir o mini-curso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
 30. [x] Concluir o mini-curso [Visão Geral de ERP](http://www.alfamidiaonline.com.br/Turmas.aspx).
 31. [x] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
