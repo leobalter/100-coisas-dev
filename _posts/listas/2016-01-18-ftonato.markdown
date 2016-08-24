@@ -13,7 +13,7 @@ categories: listas
 6. [ ] Ler 5 livros de programação.
 7. [x] Criar um [starter](https://github.com/admcode/admcode-starter) para projetos pessoais com *PHP*.
 8. [x] Ter um [_PR_ aceito](https://github.com/css/csso/pull/282) em um projeto com mais de 1000 stars.
-9. [ ] Estudar [Jeet Grid System](http://jeet.gs/).
+9. [ ] Estudar [Bulma](http://bulma.io/).
 10. [x] Estudar [Git](https://github.com/ftonato/github-course).
 11. [x] Estudar [Bower](https://github.com/ftonato/bower-course).
 12. [x] Criar um [CLI](https://github.com/ftonato/registrobr) para consultar disponibilidade de domínios.
@@ -22,39 +22,40 @@ categories: listas
 15. [x] Concluir o curso de [Introdução ao NodeJS com Typescript no Visual Studio Code](https://mva.microsoft.com/pt-br/training-courses/introdu-o-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=BrG7Pho6B_6305192797) da Microsoft.
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
-18. [ ] Concluir o mini-curso de [Vue.js](http://www.vedcasts.com.br/series/vuejs).
+18. [ ] Concluir o minicurso de [Vue.js](http://www.vedcasts.com.br/series/vuejs).
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
-20. [x] Concluir o mini-curso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
+20. [x] Concluir o minicurso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
 21. [x] Migrar do *Ubuntu* para o *Mint*.
 22. [ ] Ir a 2 eventos.
 23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
-24. [x] Concluir o mini-curso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
+24. [x] Concluir o minicurso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
 25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
-28. [x] Concluir o mini-curso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
-29. [ ] Concluir o mini-curso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
-30. [x] Concluir o mini-curso [Visão Geral de ERP](http://www.alfamidiaonline.com.br/Turmas.aspx).
-31. [x] Concluir o mini-curso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
+28. [x] Concluir o minicurso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
+29. [ ] Concluir o minicurso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
+30. [x] Concluir o minicurso [Visão Geral de ERP](http://www.alfamidiaonline.com.br/Turmas.aspx).
+31. [x] Concluir o minicurso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
 33. [ ] Atualizar repositórios antigos do GitHub.
 34. [x] Manter a frequência de estudos de 2 mêses de Inglês.
 35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
 36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
-37. [ ] Concluir o mini-curso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
-38. [ ] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb).
+37. [ ] Concluir o minicurso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
+38. [x] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb).
 39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95).
 40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE).
 41. [x] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
-42. [x] Concluir o mini-curso [Programando um jogo simples em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
-43. [x] Concluir o mini-curso [Jogo de Aventura em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
-44. [ ] Estudar o [Elllo - Level 2 - Beginner Basics](http://www.elllo.org/english/beginner/index.htm).
+42. [x] Concluir o minicurso [Programando um jogo simples em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+43. [x] Concluir o minicurso [Jogo de Aventura em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
+44. [x] Estudar o [Elllo - Level 2 - Beginner Basics](http://www.elllo.org/english/beginner/index.htm).
 45. [ ] Estudar o [Elllo - Level 3 - High-Beginner](http://www.elllo.org/english/beginner-3-high.htm).
 46. [ ] Estudar o [Elllo - Level 4 - Low Intermediate](http://www.elllo.org/english/intermediate-4-low.htm).
 47. [ ] Estudar o [Elllo - Level 5 - Intermediate](http://www.elllo.org/english/intermediate-5-mid.htm).
 48. [ ] Estudar o [Elllo - Level 6 - High Intermediate](http://www.elllo.org/english/intermediate-6-high.htm).
 49. [ ] Estudar o [Elllo - Level 7 - Advanced English](http://www.elllo.org/english/advanced.htm).
-50. [ ] Concluir o mini-curso [Curso Ionic 01](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra). 
-51. [ ] Concluir o mini-curso [ Curso Ionic 02 - Finances](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQ1rg4Xc-r52xlSMDGOjO-X).
-52. [ ] Concluir o mini-curso [ Curso Ionic 02 - Photo](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQAopw8x7hLSGbkr0AazwQ8).
-53. [ ] ...
+50. [ ] Concluir o minicurso [Curso Ionic 01](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra). 
+51. [ ] Concluir o minicurso [ Curso Ionic 02 - Finances](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQ1rg4Xc-r52xlSMDGOjO-X).
+52. [ ] Concluir o minicurso [ Curso Ionic 02 - Photo](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQAopw8x7hLSGbkr0AazwQ8).
+53. [ ] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
+54. [ ] ...
