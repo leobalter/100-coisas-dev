@@ -26,7 +26,7 @@ categories: listas
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
 20. [x] Concluir o minicurso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
 21. [x] Migrar do *Ubuntu* para o *Mint*.
-22. [ ] Ir a 2 eventos.
+22. [x] Ir a 2 eventos.
 23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
 24. [x] Concluir o minicurso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
 25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).
