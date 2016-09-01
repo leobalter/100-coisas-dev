@@ -57,6 +57,8 @@ categories: listas
 50. [ ] Concluir o minicurso [Curso Ionic 01](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra). 
 51. [ ] Concluir o minicurso [ Curso Ionic 02 - Finances](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQ1rg4Xc-r52xlSMDGOjO-X).
 52. [ ] Concluir o minicurso [ Curso Ionic 02 - Photo](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQAopw8x7hLSGbkr0AazwQ8).
-53. [ ] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
-54. [ ] Criar um [projeto](https://github.com/ftonato/pomodoro-app) usando o *VueJS*.
-55. [ ] ...
+53. [x] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
+54. [x] Criar um [Pomodoro App](https://github.com/ftonato/pomodoro-app) usando *VueJS*.
+55. [x] Criar um [Laboratório](https://github.com/admcodelabschool) para disponibilizar pequenos cursos e testes.
+56. [ ] Disponibilizar um curso/teste no [Laboratório](https://github.com/admcodelabschool).
+57. [ ] ...
