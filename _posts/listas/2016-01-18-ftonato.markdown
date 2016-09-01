@@ -26,24 +26,24 @@ categories: listas
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
 20. [x] Concluir o minicurso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
 21. [x] Migrar do *Ubuntu* para o *Mint*.
-22. [ ] Ir a 2 eventos.
+22. [x] Ir a 2 eventos.
 23. [ ] Organizar o [meetup](https://github.com/ftonato/meetup) no mínimo 4 vezes.
 24. [x] Concluir o minicurso de [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6).
 25. [x] Assistir os vídeos interessantes do evento [FrontInSM 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg).
 26. [x] Concluir o curso [Learn the Command Line](https://www.codecademy.com/pt-BR/learn/learn-the-command-line) da Codecademy.
 27. [x] Concluir o curso [Deploy a Website](https://www.codecademy.com/pt-BR/learn/deploy-a-website) da Codecademy.
 28. [x] Concluir o minicurso [Aprenda React na Prática](http://kodezilla.com/courses/introducao-ao-react).
-29. [ ] Concluir o minicurso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
+29. [x] Concluir o minicurso [Python e Flask](http://www.alfamidiaonline.com.br/Turmas.aspx).
 30. [x] Concluir o minicurso [Visão Geral de ERP](http://www.alfamidiaonline.com.br/Turmas.aspx).
 31. [x] Concluir o minicurso [ReactJS Ninja](https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf).
 32. [ ] Concluir o curso [Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/).
-33. [ ] Atualizar repositórios antigos do GitHub.
+33. [x] Atualizar repositórios antigos do GitHub.
 34. [x] Manter a frequência de estudos de 2 mêses de Inglês.
 35. [ ] Encontrar um [mentor(a) de Inglês](https://github.com/training-center/mentoria/issues/92).
 36. [x] Transformar [meu GitHub Pages](ftonato.github.io) em uma página para listar alguns projetos interessantes.
 37. [ ] Concluir o minicurso [Docker na Prática](https://codecasts.com.br/lesson/docker-na-pratica-ola-docker).
 38. [x] Estudar o [Curso de Inglês Básico - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb).
-39. [ ] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95).
+39. [x] Estudar o [Curso de Inglês Intermediário - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95).
 40. [ ] Estudar o [Curso de Inglês Imagina na Copa - Inglês de Bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELuNI15C3iekKQPelYrwL_zE).
 41. [x] Assistir os vídeos interessantes do evento [FrontInSP 2016](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA/videos).
 42. [x] Concluir o minicurso [Programando um jogo simples em JavaScript](http://www.alfamidiaonline.com.br/Turmas.aspx).
@@ -58,4 +58,5 @@ categories: listas
 51. [ ] Concluir o minicurso [ Curso Ionic 02 - Finances](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQ1rg4Xc-r52xlSMDGOjO-X).
 52. [ ] Concluir o minicurso [ Curso Ionic 02 - Photo](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQAopw8x7hLSGbkr0AazwQ8).
 53. [ ] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
-54. [ ] ...
+54. [ ] Criar um [projeto](https://github.com/ftonato/pomodoro-app) usando o *VueJS*.
+55. [ ] ...
