@@ -18,7 +18,7 @@ categories: listas
 11. [x] Estudar [Bower](https://github.com/ftonato/bower-course).
 12. [x] Criar um [CLI](https://github.com/ftonato/registrobr) para consultar disponibilidade de domínios.
 13. [x] Concluir o curso de [Python](https://www.codecademy.com/pt-BR/learn/python) da Codecademy.
-14. [ ] Concluir o curso de [Design Patterns PHP](https://www.alura.com.br/curso-online-design-pattern-php) da Alura.
+14. [x] Concluir o curso de [Design Patterns PHP](https://www.alura.com.br/curso-online-design-pattern-php) da Alura.
 15. [x] Concluir o curso de [Introdução ao NodeJS com Typescript no Visual Studio Code](https://mva.microsoft.com/pt-br/training-courses/introdu-o-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=BrG7Pho6B_6305192797) da Microsoft.
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
 17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
@@ -57,6 +57,8 @@ categories: listas
 50. [ ] Concluir o minicurso [Curso Ionic 01](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra). 
 51. [ ] Concluir o minicurso [ Curso Ionic 02 - Finances](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQ1rg4Xc-r52xlSMDGOjO-X).
 52. [ ] Concluir o minicurso [ Curso Ionic 02 - Photo](https://www.youtube.com/playlist?list=PLpP8rO2FXVXQAopw8x7hLSGbkr0AazwQ8).
-53. [ ] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
-54. [ ] Criar um [projeto](https://github.com/ftonato/pomodoro-app) usando o *VueJS*.
-55. [ ] ...
+53. [x] Ler o [Guia de Desenvolvimento Técnico](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/).
+54. [x] Criar um [Pomodoro App](https://github.com/ftonato/pomodoro-app) usando *VueJS*.
+55. [x] Criar um [Laboratório](https://github.com/admcodelabschool) para disponibilizar pequenos cursos e testes.
+56. [ ] Disponibilizar um curso/teste no [Laboratório](https://github.com/admcodelabschool).
+57. [ ] ...
