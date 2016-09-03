@@ -61,4 +61,5 @@ categories: listas
 54. [x] Criar um [Pomodoro App](https://github.com/ftonato/pomodoro-app) usando *VueJS*.
 55. [x] Criar um [Laboratório](https://github.com/admcodelabschool) para disponibilizar pequenos cursos e testes.
 56. [ ] Disponibilizar um curso/teste no [Laboratório](https://github.com/admcodelabschool).
-57. [ ] ...
+57. [ ] Assistir os vídeos interessantes do minicurso [Introdução à Ciência da Computação com Python](https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn).
+58. [ ] ...
