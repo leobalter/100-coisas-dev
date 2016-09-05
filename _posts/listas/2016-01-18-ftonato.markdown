@@ -21,7 +21,7 @@ categories: listas
 14. [x] Concluir o curso de [Design Patterns PHP](https://www.alura.com.br/curso-online-design-pattern-php) da Alura.
 15. [x] Concluir o curso de [Introdução ao NodeJS com Typescript no Visual Studio Code](https://mva.microsoft.com/pt-br/training-courses/introdu-o-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=BrG7Pho6B_6305192797) da Microsoft.
 16. [x] Concluir o curso de [jQuery](https://www.codecademy.com/pt-BR/learn/jquery) da Codecademy.
-17. [ ] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
+17. [x] Concluir o curso de [Ruby](https://www.codecademy.com/pt-BR/learn/ruby) da Codecademy.
 18. [ ] Concluir o minicurso de [Vue.js](http://www.vedcasts.com.br/series/vuejs).
 19. [ ] Publicar o novo site da [ADMCode](https://github.com/admcode/admcode.com.br).
 20. [x] Concluir o minicurso de [React.js](http://jscasts.teachable.com/courses/comecando-com-react-js).
