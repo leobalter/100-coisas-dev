@@ -11,8 +11,8 @@ categories: listas
 1. [X] Lançar o primeiro encontro do [BeerJS/SJC](https://github.com/beerjs/sjc)
 1. [ ] Escrever 50 posts no ano.
 1. [ ] Documentar meu Code Style.
-1. [ ] Apresentar uma palestra relevante.
-1. [ ] Palestrar em um evento para mais de 10 pessoas rs.
+1. [X] Apresentar uma palestra relevante.
+1. [X] Palestrar em um evento para mais de 10 pessoas rs.
 1. [ ] Estudar Ember.js até dominar o framework.
 1. [ ] Estudar JS Funcional.
 1. [ ] Estudar Electron.
@@ -27,7 +27,7 @@ categories: listas
 1. [ ] Tornar testes automatizados algo comum no meu processo de desenvolvimento.
 1. [ ] Melhorar minha conversação em inglês.
 1. [ ] Começar a estudar espanhol.
-1. [ ] Ir a um evento de desenvolvimento web.
+1. [X] Ir a um evento de desenvolvimento web.
 1. [ ] Ir a um evento de desenvolvimento web fora do estado de São Paulo.
 1. [ ] Ir a um evento de desenvolvimento web fora do Brasil.
 1. ...
