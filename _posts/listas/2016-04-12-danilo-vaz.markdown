@@ -30,4 +30,5 @@ categories: listas
 1. [X] Ir a um evento de desenvolvimento web.
 1. [ ] Ir a um evento de desenvolvimento web fora do estado de São Paulo.
 1. [ ] Ir a um evento de desenvolvimento web fora do Brasil.
+1. [ ] Ministrar um curso de JavaScript Básico.
 1. ...
