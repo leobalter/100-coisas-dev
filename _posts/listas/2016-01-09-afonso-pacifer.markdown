@@ -35,7 +35,7 @@ categories: listas
 1. [x] [Reformular meu site pessoal](http://afonsopacifer.com/).
 1. [x] Criar uma [newsletter sobre CSS](http://us13.campaign-archive1.com/?u=1a0f9fcb157dd48548cf5b618&id=1845db2d7d&e=[UNIQID]).
 1. [x] Iniciar em um [trampo remoto na area de produto](https://github.com/nutriotos).
-1. [x] Aprender **Polymer** e criar [webcomponents descolados](https://customelements.io/afonsopacifer).
+1. [x] Aprender **Polymer** e criar vários [webcomponents descolados](https://customelements.io/afonsopacifer).
 1. [x] Criar a [Awesome **Firebase**](https://github.com/afonsopacifer/awesome-firebase).
 1. [ ] Organizar meu code style guide.
 1. [ ] Me aprofundar em **AngularJS**.
@@ -62,10 +62,10 @@ categories: listas
 1. [x] Apresentar uma mini talk sobre comunidade Web no Marketing Meetup Rio 3ª Edição.
 1. [ ] Terminar de ler * **MEAN** - by Flávio Almeida* (Pendência de 2015)
 1. [ ] Terminar de ler *HTML5 - by Maujor* (Pendência de 2015)
-1. [ ] Terminar de ler * **SEO** Prático - by Adriano Almeida* (Pendência de 2015)
+1. [x] Terminar de ler * **SEO** Prático - by Adriano Almeida* (Pendência de 2015)
 1. [ ] Terminar de ler *Web Design Responsivo - by Tárcio Zemel* (Pendência de 2015)
 1. [ ] Terminar de ler *Construindo Apps **Android** com HTML, CSS e JS - by Jonathan Stark* (Pendência de 2015)
-1. [ ] Terminar de ler *Aplicações web real-time com Node.js - by Caio Ribeiro Pereira* (Pendência de 2015)
+1. [ ] Terminar de ler *Aplicações web real-time com Node.js - by Caio Ribeiro Pereira* (Pend()ência de 2015)
 1. [ ] Terminar de ler *CSS3 Layout Modules - by Rachel Andrew* (Pendência de 2015)
 1. [x] Ler *Ruby - by Lucas Souza*
 1. [x] Ler *CSS Eficiente - by Tárcio Zemel*
@@ -80,7 +80,7 @@ categories: listas
 1. [ ] Ler *JavaScript de Alto Desempenho - by Nicholas C. Zakas*
 1. [ ] Ler *You Don't Know JS: ES6 & Beyond - by Kyle Simpson*
 1. [ ] Ler *Construindo APIs REST com Node.js - by Caio Ribeiro Pereira*
-1. [ ] Aprender **Vue.js**.
+1. [x] Aprender **Vue.js**.
 1. [ ] Criar uma **extensão para Chrome**.
 1. [x] Criar um [WebApp para me ajudar a meditar](http://afonsopacifer.github.io/vue-meditation/).
 1. [ ] Dissecar a API de **Service Workers**.
@@ -88,3 +88,13 @@ categories: listas
 1. [ ] Construir uma **API REST** com **Express**.
 1. [ ] Implementar **Redux** em um projeto que não use React.
 1. [ ] Alcançar um nível razoável de fluência em **inglês**.:sparkling_heart:
+1. [x] Aprender **metalsmith**.
+1. [x] Definir meu próprio [code **style guide**](https://github.com/bananacss/banana-style-guide) para nodejs.
+1. [x] Criar uma API para [**abstrair iterações** complexas na CSS abstract syntax tree (AST)](https://github.com/bananacss/css-ast-iterations)
+1. [x] Criar meu próprio [CSS preprocessor (bananacss)](https://github.com/bananacss/bananacss).:sparkling_heart:
+1. [x] Criar meu primeiro [Plugin de Gulp](https://github.com/bananacss/gulp-banana).
+1. [x] Automatizar o [scaffolding de **Plugins para Gulp**](https://github.com/afonsopacifer/slush-gulp-plugin)
+1. [x] Conhecer SJC através da minha palestra no Front in Valle.:sparkling_heart:
+1. [x] Ter a honra de ouvir que sou uma inspiração para a [Alda](https://twitter.com/mjcoffeeholick).:sparkling_heart:
+1. [x] Receber um abraço apertado após uma palestra e ouvir "eu vi o seu futuro"
+ de alguém que eu amo.:sparkling_heart:
