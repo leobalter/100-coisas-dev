@@ -64,4 +64,5 @@ categories: listas
 57. [ ] Assistir os vídeos interessantes do minicurso [Introdução à Ciência da Computação com Python](https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn).
 58. [x] Assistir os vídeos interessantes do evento [BrazilJS 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOTMMnclNPFZdbLPKKYNazXb).
 59. [ ] Manter menos de 5 episódios na lista de podcasts não ouvidos - [Inglês Todos os Dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/).
-60. [ ] ...
+60. [x] Ter um [_PR_ aceito](https://github.com/julianshapiro/velocity/pull/705) em um projeto com mais de 10000 stars.
+61. [ ] ...
