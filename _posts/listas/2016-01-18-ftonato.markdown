@@ -63,4 +63,5 @@ categories: listas
 56. [ ] Disponibilizar um curso/teste no [Laboratório](https://github.com/admcodelabschool).
 57. [ ] Assistir os vídeos interessantes do minicurso [Introdução à Ciência da Computação com Python](https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn).
 58. [x] Assistir os vídeos interessantes do evento [BrazilJS 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOTMMnclNPFZdbLPKKYNazXb).
-59. [ ] ...
+59. [ ] Manter menos de 5 episódios na lista de podcasts não ouvidos - [Inglês Todos os Dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/).
+60. [ ] ...
