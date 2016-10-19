@@ -65,4 +65,6 @@ categories: listas
 58. [x] Assistir os vídeos interessantes do evento [BrazilJS 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOTMMnclNPFZdbLPKKYNazXb).
 59. [ ] Manter menos de 5 episódios na lista de podcasts não ouvidos - [Inglês Todos os Dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/).
 60. [x] Ter um [_PR_ aceito](https://github.com/julianshapiro/velocity/pull/705) em um projeto com mais de 10000 stars.
-61. [ ] ...
+61. [ ] Concluir o curso [Fundamentos do Design Responsivo para a Web](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893/) da Udacity.
+62. [ ] Concluir o curso [Javascript com TDD na prática](https://www.eventick.com.br/javascript-com-tdd-na-pratica) do Willian Justen.
+63. [ ] ...
