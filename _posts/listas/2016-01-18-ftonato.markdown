@@ -67,7 +67,8 @@ categories: listas
 60. [x] Ter um [_PR_ aceito](https://github.com/julianshapiro/velocity/pull/705) em um projeto com mais de 10000 stars.
 61. [ ] Concluir o curso [Fundamentos do Design Responsivo para a Web](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893/) da Udacity.
 62. [ ] Concluir o curso [Javascript com TDD na prática](https://www.eventick.com.br/javascript-com-tdd-na-pratica) do Willian Justen.
-63. [x] Em [2016 eu quero](https://github.com/ftonato/in-2016-i-want) ler mais (livros).
-64. [x] Em [2016 eu quero](https://github.com/ftonato/in-2016-i-want) escrever mais artigos técnicos.
+63. [x] Em [2016 eu quero](https://github.com/ftonato/in-2016-i-want) [ler mais (livros)](http://ftonato.github.io/in-2016-i-want/read-more.html).
+64. [x] Em [2016 eu quero](http://ftonato.github.io/in-2016-i-want/write-more.html) escrever mais artigos técnicos.
 65. [x] Escrever para um [blog famoso](https://braziljs.org/blog/author/ftonato/) #BrazilJS.
-66. [ ] ...
+66. [x] Ter três postagens no blog da [BrazilJS](https://braziljs.org/blog/author/ftonato/).
+67. [ ] ...
