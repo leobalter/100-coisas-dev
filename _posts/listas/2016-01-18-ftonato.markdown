@@ -71,4 +71,5 @@ categories: listas
 64. [x] Em [2016 eu quero](http://ftonato.github.io/in-2016-i-want/write-more.html) escrever mais artigos técnicos.
 65. [x] Escrever para um [blog famoso](https://braziljs.org/blog/author/ftonato/) #BrazilJS.
 66. [x] Ter três postagens no blog da [BrazilJS](https://braziljs.org/blog/author/ftonato/).
-67. [ ] ...
+67. [ ] Ler o livro [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
+68. [ ] ...
