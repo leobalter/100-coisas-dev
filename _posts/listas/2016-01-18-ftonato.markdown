@@ -72,7 +72,7 @@ categories: listas
 65. [x] Escrever para um [blog famoso](https://braziljs.org/blog/author/ftonato/) #BrazilJS.
 66. [x] Ter três postagens no blog da [BrazilJS](https://braziljs.org/blog/author/ftonato/).
 67. [ ] Ler o livro [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
-68. [ ] Criar uma [ferramenta](https://github.com/ftonato/modelo-de-processos) para gerenciar informações de um modelo de referência de processo de software.
+68. [x] Criar uma [ferramenta](https://github.com/ftonato/modelo-de-processos) para gerenciar informações de um modelo de referência de processo de software.
 69. [ ] Estudar o [English Speaking Basics I](http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx)
 70. [ ] Estudar o [English Speaking Basics II](http://www.talkenglish.com/speaking/basics/speaking_basics_ii.aspx)
 71. [ ] Estudar o [English Speaking Basics III](http://www.talkenglish.com/speaking/basics/speaking_basics_iii.aspx)
