@@ -76,4 +76,8 @@ categories: listas
 69. [ ] Estudar o [English Speaking Basics I](http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx)
 70. [ ] Estudar o [English Speaking Basics II](http://www.talkenglish.com/speaking/basics/speaking_basics_ii.aspx)
 71. [ ] Estudar o [English Speaking Basics III](http://www.talkenglish.com/speaking/basics/speaking_basics_iii.aspx)
-72. [ ] ...
+72. [ ] Assistir algumas aulas sobre PostCSS
+73. [x] Escrever sobre [acessibilidade](https://braziljs.org/blog/melhorando-a-acessibilidade-de-aplicacoes-web-com-aria/)
+74. [x] Escrever sobre uma [API pouco conhecida](https://braziljs.org/blog/web-share-api/)
+75. [x] Escrever sobre [i18n](https://braziljs.org/blog/implementando-internacionalizacao-i18n-com-javascript/)
+76. [ ] ...
