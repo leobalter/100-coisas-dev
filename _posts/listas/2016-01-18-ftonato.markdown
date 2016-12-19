@@ -81,4 +81,5 @@ categories: listas
 74. [x] Escrever sobre uma [API pouco conhecida](https://braziljs.org/blog/web-share-api/)
 75. [x] Escrever sobre [i18n](https://braziljs.org/blog/implementando-internacionalizacao-i18n-com-javascript/)
 76. [x] Assistir os vídeos interessantes do canal do [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/videos)
-77. [ ] ...
+77. [x] Assistir os vídeos interessantes do canal do [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
+78. [ ] ...
