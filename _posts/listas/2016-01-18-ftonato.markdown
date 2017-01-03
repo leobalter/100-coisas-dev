@@ -65,7 +65,7 @@ categories: listas
 58. [x] Assistir os vídeos interessantes do evento [BrazilJS 2016](https://www.youtube.com/playlist?list=PLg2lQYZDBwOTMMnclNPFZdbLPKKYNazXb)
 59. [x] Manter menos de 5 episódios na lista de podcasts não ouvidos - [Inglês Todos os Dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/)
 60. [x] Ter um [_PR_ aceito](https://github.com/julianshapiro/velocity/pull/705) em um projeto com mais de 10000 stars
-61. [ ] Concluir o curso [Fundamentos do Design Responsivo para a Web](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893/) da Udacity
+61. [x] Concluir o curso [Fundamentos do Design Responsivo para a Web](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893/) da Udacity
 62. [ ] Concluir o curso [Javascript com TDD na prática](https://www.eventick.com.br/javascript-com-tdd-na-pratica) do Willian Justen
 63. [x] Em [2016 eu quero](https://github.com/ftonato/in-2016-i-want) [ler mais (livros)](http://ftonato.github.io/in-2016-i-want/read-more.html)
 64. [x] Em [2016 eu quero](http://ftonato.github.io/in-2016-i-want/write-more.html) escrever mais artigos técnicos
@@ -76,4 +76,11 @@ categories: listas
 69. [ ] Estudar o [English Speaking Basics I](http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx)
 70. [ ] Estudar o [English Speaking Basics II](http://www.talkenglish.com/speaking/basics/speaking_basics_ii.aspx)
 71. [ ] Estudar o [English Speaking Basics III](http://www.talkenglish.com/speaking/basics/speaking_basics_iii.aspx)
-72. [ ] ...
+72. [x] Assistir algumas aulas sobre PostCSS
+73. [x] Escrever sobre [acessibilidade](https://braziljs.org/blog/melhorando-a-acessibilidade-de-aplicacoes-web-com-aria/)
+74. [x] Escrever sobre uma [API pouco conhecida](https://braziljs.org/blog/web-share-api/)
+75. [x] Escrever sobre [i18n](https://braziljs.org/blog/implementando-internacionalizacao-i18n-com-javascript/)
+76. [x] Assistir os vídeos interessantes do canal do [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/videos)
+77. [x] Assistir os vídeos interessantes do canal do [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
+78. [x] Criar um [repositório](https://github.com/ftonato/postcss-course) para distribuir os conhecimentos adquiridos sobre PostCSS
+79. [ ] ...
