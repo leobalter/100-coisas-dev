@@ -19,7 +19,7 @@ categories: listas
 12. [ ] Realizar maior número de encontros do FEMUG Maringá que em 2016
 13. [ ] Criar posts técnicos uma vez a cada dois meses no mínimo
 14. [ ] Participar da Braziljs 2017 (curti de mais a edição de 2016)
-15. [ ] Contribuir mais com Java na escole de T.I
+15. [ ] Contribuir mais com Java na escola de T.I
 16. [ ] Aplicar redux com react em uma webapp
 17. [ ] Criar uma webapp com vue e vuex
 18. [ ] Participar de alguns encontros do [Speako Meetup](https://www.meetup.com/ptBR/Speako-Meetup/)
